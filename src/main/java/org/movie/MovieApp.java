@@ -2,10 +2,10 @@ package org.movie;
 
 import org.movie.model.Movie;
 import org.movie.model.User;
-import org.movie.sevice.LoginService;
-import org.movie.sevice.MovieService;
-import org.movie.sevice.RegistrationService;
-import org.movie.sevice.UserService;
+import org.movie.service.LoginService;
+import org.movie.service.MovieService;
+import org.movie.service.RegistrationService;
+import org.movie.service.UserService;
 
 import java.util.*;
 

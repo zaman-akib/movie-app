@@ -4,7 +4,6 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 import org.movie.model.User;
-import org.movie.sevice.RegistrationService;
 
 import java.util.HashMap;
 import java.util.Map;

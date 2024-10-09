@@ -1,4 +1,4 @@
-package org.movie.sevice;
+package org.movie.service;
 
 import org.movie.model.User;
 

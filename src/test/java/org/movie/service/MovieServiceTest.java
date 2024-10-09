@@ -4,7 +4,6 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 import org.movie.model.Movie;
-import org.movie.sevice.MovieService;
 
 import java.util.ArrayList;
 import java.util.List;

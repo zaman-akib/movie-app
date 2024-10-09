@@ -5,7 +5,6 @@ import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 import org.movie.model.Movie;
 import org.movie.model.User;
-import org.movie.sevice.UserService;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
